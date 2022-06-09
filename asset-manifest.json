@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cwdt/static/js/main.a950ceca.js",
+    "index.html": "/cwdt/index.html",
+    "main.a950ceca.js.map": "/cwdt/static/js/main.a950ceca.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a950ceca.js"
+  ]
+}
